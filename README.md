@@ -147,12 +147,22 @@ The `ID` column is the trailing numeric portion of the filename and is intended 
 
 ---
 
+## Author
+
+**Bipul Neupane, PhD**
+Research Scientist, DPIRD Node
+Australian Plant Phenomics Network (APPN)
+Department of Primary Industries and Regional Development (DPIRD), Western Australia
+[bipul.neupane@dpird.wa.gov.au](mailto:bipul.neupane@dpird.wa.gov.au)
+
+## Contributor
+
+Bipul Neupane: [Github](https://github.com/bipulneupane)
+
 ## Credits
 
-Developed by **Bipul Neupane, PhD** — Research Scientist, DPIRD Node, [Australian Plant Phenomics Network (APPN)](https://www.plantphenomics.org.au/).
-Contact: [bipul.neupane@dpird.wa.gov.au](mailto:bipul.neupane@dpird.wa.gov.au)
+The tool was developed with [claude.ai](https://claude.ai).
 
-Developed with [claude.ai](https://claude.ai).
 
 ---
 
